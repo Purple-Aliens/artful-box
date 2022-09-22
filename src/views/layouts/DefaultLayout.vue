@@ -1,13 +1,8 @@
 <script>
 export default {
-  name: 'App',
-
-  setup() {
-    //
-  }
+  name: 'DefaultLayout',
 }
 </script>
-
 <template>
-  <RouterView />
+  <router-view />
 </template>
